@@ -1,13 +1,14 @@
 # SEN201_projectAssignment_SMS
 A simple command-line Student Management System built with Python that allows users to manage student records efficiently
 Student Management System (SMS)
-📌 Project Description
+
+Project Description
 
 The Student Management System (SMS) is a command-line based software application developed using Python to manage student records efficiently. The system allows users to add, view, update, and delete student information such as Student ID, Name, Age, and Class.
 
-This project was developed following the Software Development Life Cycle (SDLC) and demonstrates fundamental software engineering principles, modular programming, and version control using Git and GitHub.
+This project was developed following the Software Development Life Cycle (SDLC) and demonstrates fundamental software engineering principles, modular programming,and version control using Git and GitHub.
 
-🔄 Software Development Life Cycle (SDLC)
+Software Development Life Cycle (SDLC)
 1. Planning
 
 The planning phase defines the purpose and scope of the project.
@@ -36,7 +37,7 @@ Limited to a CLI-based application.
 Uses in-memory data storage.
 
 2. Requirements Analysis
-Functional Requirements
+a)Functional Requirements
 
 The system shall allow users to add a new student.
 
@@ -46,7 +47,7 @@ The system shall update existing student information.
 
 The system shall delete student records.
 
-Non-Functional Requirements
+b)Non-Functional Requirements
 
 The system shall be easy to use.
 
@@ -130,7 +131,7 @@ User authentication
 
 Improved validation and error handling
 
-🛠️ Technologies Used
+Technologies Used
 
 Python
 
@@ -140,7 +141,7 @@ GitHub
 
 Command Line Interface (CLI)
 
-▶️ How to Run the Project
+How to Run the Project
 
 Ensure Python is installed.
 
@@ -152,12 +153,14 @@ Run the command:
 
 python main.py
 
-🎯 Purpose of the Project
+Purpose of the Project
 
 This project is developed for academic purposes to demonstrate understanding of the Software Development Life Cycle (SDLC), basic system design, implementation, and GitHub version control as part of a Software Engineering course.
 
-👤 Author
+Author
 
 Karamat Ajiboye
+
+24/15257
 
 Software Engineering Student
